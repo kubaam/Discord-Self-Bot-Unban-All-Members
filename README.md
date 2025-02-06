@@ -37,7 +37,7 @@ This will be installed automatically by the script, but you can manually install
 Simply run the script:
 
 ```bash
-python discord_unban_bot.py
+python main.py
 ```
 
 ### Steps Followed by the Script:
